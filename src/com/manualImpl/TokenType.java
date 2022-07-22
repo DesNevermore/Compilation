@@ -15,7 +15,7 @@ public enum TokenType {
     LE,     // <=
     LT,     // <
 
-    Semicolon,  // ;
+    SemiColon,  // ;
     LeftParen,  // (
     RightParen, // )
 

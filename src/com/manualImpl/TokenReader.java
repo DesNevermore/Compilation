@@ -30,5 +30,5 @@ public interface TokenReader {
     /**
      * set the current position of the token stream
      */
-    void setIndex();
+    void setIndex(int index);
 }
